@@ -21,7 +21,10 @@ To-do list app dashboard page
 * 3rd section consists of Logout button which moves you to the Login page
 * Status bar that shows the level of tasks completed
 * A button to delete all the tasks and makes new dashboard
-
+<p align="center">
+  <img src="../public/src/assets/Screenshot(434).png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 Code Explanation
 Login and Logout
 The login functionality is implemented using the useState hook. When users enter their email and password and click the "Login" button, the handleLogin function is called. This function performs validation (replace with your own logic) and sets the isLoggedIn state to true if the credentials are correct. The user's email and password are stored in the browser's local storage using localStorage.setItem.
