@@ -1,5 +1,27 @@
 # MEtodo
 To-do list app dashboard page
+
+<a href="https://64893a2a304b694f5107ea0c--endearing-starburst-77f66d.netlify.app/" target="_blank">Marquee Equity To-Do App Assessment</a>
+
+# To the Team of ME 
+Added Guest login for easiest login as for now 
+Login credentials : Mani9@gmail.com, qwert12345
+Dashboard contains 3 parts:
+* 1st section contains logo and acts as a sidebar menu
+* Can also create subtasks here main tasks to be added here
+* main page contains list / cards of tasks in the main task
+* Search bar that helps to find a particular task in a pool of tasks
+* consists functionalities of 
+1 Mark favourite
+2 Delete task 
+3 mark as complete
+4 Date of rememberance
+5 Status of the task
+6 Sort functionalities according to the requirement
+* 3rd section consists of Logout button which moves you to the Login page
+* Status bar that shows the level of tasks completed
+* A button to delete all the tasks and makes new dashboard
+
 Code Explanation
 Login and Logout
 The login functionality is implemented using the useState hook. When users enter their email and password and click the "Login" button, the handleLogin function is called. This function performs validation (replace with your own logic) and sets the isLoggedIn state to true if the credentials are correct. The user's email and password are stored in the browser's local storage using localStorage.setItem.
