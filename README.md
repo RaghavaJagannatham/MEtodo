@@ -21,13 +21,10 @@ To-do list app dashboard page
 * 3rd section consists of Logout button which moves you to the Login page
 * Status bar that shows the level of tasks completed
 * A button to delete all the tasks and makes new dashboard
-<div>
-</div>
-![image](https://github.com/RaghavaJagannatham/MEtodo/assets/70148332/90fc7b6b-2f4a-415b-bdd3-6be38a0eea0e/200x150)
-![image](https://github.com/RaghavaJagannatham/MEtodo/assets/70148332/87323c0f-b1ed-45be-aa2c-6aca4f63d886/200x150)
-![image](https://github.com/RaghavaJagannatham/MEtodo/assets/70148332/6d6c5300-076c-4aa4-9ccf-e6c7be4a0032/200x150)
 
-
+![Screenshot (438)](https://github.com/RaghavaJagannatham/MEtodo/assets/70148332/0d00206a-0fc2-43c5-ae5a-83f2e538f7b8/200x150)
+![Screenshot (439)](https://github.com/RaghavaJagannatham/MEtodo/assets/70148332/eaee65e8-1c2d-4bd4-bc88-e0281f3ff23e/200x150)
+![Screenshot (440)](https://github.com/RaghavaJagannatham/MEtodo/assets/70148332/73c79ecb-2b56-41ec-a5dd-582efe70eb6f/200x150)
 
 # Code Explanation
 
