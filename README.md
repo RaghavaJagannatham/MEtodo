@@ -1,6 +1,6 @@
 To-do list app dashboard page
 
-<a href="https://64893a2a304b694f5107ea0c--endearing-starburst-77f66d.netlify.app/" target="_blank">Link for the App </a>
+#<a href="https://64893a2a304b694f5107ea0c--endearing-starburst-77f66d.netlify.app/" target="_blank">Link for the App </a>
 
 # About TO_Do
 * Added Guest login for easiest login as for now 
